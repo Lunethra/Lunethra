@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Lunethra/Lunethra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lunethra! 👋
+My real name is seyyed ali hosseini karani.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a full stack developer...
+
+
+
+👩‍💻 I'm currently working on nothing.
+
+🧠 I'm currently learning javascript.
+
+👯‍♀️ I'm looking to collaborate on parch linux.
+
+🚀 I'm currently trying to apply to Danova event.
+
+## 🛠 Skills
+Python, Javascript, HTML, CSS.
+
