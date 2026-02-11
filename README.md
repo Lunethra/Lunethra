@@ -1,8 +1,5 @@
 
 # Hi, I'm Lunethra! 👋
-My real name is seyyed ali hosseini karani.
-
-
 ## 🚀 About Me
 I'm a full stack developer...
 
