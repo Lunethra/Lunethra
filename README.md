@@ -10,7 +10,7 @@ I'm a full stack developer...
 🧠 I'm currently learning javascript. 
 
 ## 🛠 Skills
-###**High skill in c++** 
+**High skill in C++** 
 
 
 Python, Javascript, HTML, CSS, C.
